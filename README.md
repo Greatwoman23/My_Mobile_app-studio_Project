@@ -1,8 +1,5 @@
-# My_Mobile_app-studio_Project
- The "My_Mobile_app-studio_Project" involves the creation of a new mobile app at My MobApp Studio, with a focus on data-driven decision-making. As the Junior Data Scientist, I am tasked with conducting market research, analyzing data, and providing insights to support strategic decisions for the upcoming apps.
-
-
 Welcome to My Mobapp Studio
+
 Task
 The task is to first implement this functions for the dataset called googleplaystore.csv
 
@@ -48,4 +45,27 @@ When you run the script, it will load the data from the CSV file into a DataFram
 ./  To follow the link_to_blog_post.txt, you press control + click on the link and it would take you directly to the blog post.
 
 The Core Team
-Oluwakemi Helen Deniran
+SUB GROUP 9 WOMEN TECHSTERS FELLOWSHIP
+# Team Members
+
+## Participants
+
+- Oluwakemi Deniran
+ - Oluwayemisi Ashiriabo
+ -  Meadi Hailezegi
+
+
+## Non-Participants
+
+- Ibiye Briggs
+- Charity Akpan
+- Mary Okoi
+- Precious Abiakam
+- Esther Awulu
+- CHIOMA IDIKA
+- Carol Munywoki
+- Mina TCHOUA TCHOUA
+- Temitope Akinyemi
+- Ezinne Uche
+- Folakemi Fariogun
+
