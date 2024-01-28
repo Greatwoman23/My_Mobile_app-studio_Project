@@ -1,6 +1,7 @@
 Welcome to My Mobapp Studio
 
-Task
+#Task
+
 The task is to first implement this functions for the dataset called googleplaystore.csv
 
 load_dataset() print_summarize_dataset(dataset) clean_dataset(dataset) print_histograms(dataset) compute_correlations_matrix(dataset) print_scatter_matrix()
@@ -19,7 +20,8 @@ Plot a bar with the mean price per category
 
 Most expensive apps per category
 
-Description
+#Description
+
 The load_dataset function loads the dataset from the CSV file using Pandas.
 
 The clean_dataset function removes duplicates, missing values, and formats columns like "Installs", "Price", and "Reviews"
@@ -32,20 +34,24 @@ The compute_correlations_matrix functions creates a correlation for the dataset.
 
 The second part that shows the blog-post report is also present in the script.
 
-Installation
+#Installation
+
 There was no major installation but we used pandas, matplotlib, numpy for our analysis.
 
 We also used "medium  and word doc" for our blog-post.
 
-Usage
+#Usage
+
 To use this code, The CSV file named "googleplaystore.csv" is in the same directory as the script.
 
 When you run the script, it will load the data from the CSV file into a DataFrame and display it on the console.
 
 ./  To follow the link_to_blog_post.txt, you press control + click on the link and it would take you directly to the blog post.
 
-The Core Team
-SUB GROUP 9 WOMEN TECHSTERS FELLOWSHIP
+#The Core Team
+
+#SUB GROUP 9 WOMEN TECHSTERS FELLOWSHIP
+
 # Team Members
 
 ## Participants
