@@ -5,9 +5,13 @@ Welcome to My Mobapp Studio
 The task is to first implement this functions for the dataset called googleplaystore.csv
 
 load_dataset() 
+
 print_summarize_dataset(dataset) 
+
 clean_dataset(dataset) 
+
 print_histograms(dataset) compute_correlations_matrix(dataset)
+
 print_scatter_matrix()
 
 After implementing the function , the second part will be to write a report and publish on any blog platform of our choice. To drive our Analysis: we need to do the following
