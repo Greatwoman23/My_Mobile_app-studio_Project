@@ -65,8 +65,6 @@ When you run the script, it will load the data from the CSV file into a DataFram
 ## Participants
 
 - Oluwakemi Deniran
- - Oluwayemisi Ashiriabo
- -  Meadi Hailezegi
 
 
 ## Non-Participants
@@ -82,4 +80,7 @@ When you run the script, it will load the data from the CSV file into a DataFram
 - Temitope Akinyemi
 - Ezinne Uche
 - Folakemi Fariogun
+ - Oluwayemisi Ashiriabo
+ -  Meadi Hailezegi
+
 
